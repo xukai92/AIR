@@ -1,2 +1,1 @@
-# AIR
-Fresh AIR with Julia.
+# AIR.jl
